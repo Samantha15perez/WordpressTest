@@ -1,0 +1,5 @@
+C:\Users\Cyberadmin\Desktop\DLLTEST\DLLTEST\obj\Debug\DLLTEST.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\DLLTEST\DLLTEST\bin\Debug\DLLTEST.dll
+C:\Users\Cyberadmin\Desktop\DLLTEST\DLLTEST\bin\Debug\DLLTEST.pdb
+C:\Users\Cyberadmin\Desktop\DLLTEST\DLLTEST\obj\Debug\DLLTEST.dll
+C:\Users\Cyberadmin\Desktop\DLLTEST\DLLTEST\obj\Debug\DLLTEST.pdb
